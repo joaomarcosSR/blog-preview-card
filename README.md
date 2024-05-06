@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Blog preview card](https://joaomarcossr.github.io/blog-preview-card/)
-- Live Site URL: [GitHub](https://github.com/joaomarcosSR/blog-preview-card)
+- Solution URL: [GitHub](https://github.com/joaomarcosSR/blog-preview-card)
+- Live Site URL: [Blog preview card](https://joaomarcossr.github.io/blog-preview-card/)
 
 ## My process
 
